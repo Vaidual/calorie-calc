@@ -1,0 +1,52 @@
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.exe.config
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.exe
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.pdb
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.AssemblyReference.cache
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.mainForm.resources
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.Properties.Resources.resources
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.GenerateResource.cache
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.CoreCompileInputs.cache
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.exe
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.pdb
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.UserForm.resources
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.Dishes.resources
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.AddDishForm.resources
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.StatisticForm.resources
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Intersoft.Crosslight.dll
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Intersoft.Crosslight.UI.DataVisualization.dll
+C:\Учеба\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.CopyComplete
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.exe.config
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.exe
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.pdb
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\bin\Debug\Intersoft.Crosslight.dll
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\bin\Debug\Intersoft.Crosslight.UI.DataVisualization.dll
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.AssemblyReference.cache
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.AddDishForm.resources
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.Dishes.resources
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.mainForm.resources
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.Properties.Resources.resources
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.StatisticForm.resources
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.UserForm.resources
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.GenerateResource.cache
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.CoreCompileInputs.cache
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.CopyComplete
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.exe
+C:\Учеба\Семестр№3\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.pdb
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.exe.config
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.exe
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Calorie_Calculator.pdb
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Intersoft.Crosslight.dll
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\bin\Debug\Intersoft.Crosslight.UI.DataVisualization.dll
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.AssemblyReference.cache
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.AddDishForm.resources
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.Dishes.resources
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.mainForm.resources
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.Properties.Resources.resources
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.StatisticForm.resources
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.UserForm.resources
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.GenerateResource.cache
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.CoreCompileInputs.cache
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.csproj.CopyComplete
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.exe
+D:\Study\Курс №2\Семестр№3\ЛМВз\lb4\Calorie_Calculator\Calorie_Calculator\obj\Debug\Calorie_Calculator.pdb
