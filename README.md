@@ -11,23 +11,23 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/Y8tUxxq.png"  />
+  <img height="200" src="https://i.imgur.com/Y8tUxxq.png" style="width:40%; height:50%;"/>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/X8B2T1z.png"  />
+  <img height="200" src="https://i.imgur.com/X8B2T1z.png" style="width:60%; height:50%;"/>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/qQJoziW.png"  />
+  <img height="200" src="https://i.imgur.com/qQJoziW.png" style="width:80%; height:50%;"/>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/FSAA4T6.png"  />
+  <img height="200" src="https://i.imgur.com/FSAA4T6.png" style="width:60%; height:50%;"/>
 </div>
